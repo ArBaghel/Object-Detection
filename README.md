@@ -50,7 +50,7 @@ source venv/bin/activate        # Linux / macOS
 pip install -r requirements.txt
 ```
 
-## ▶️ Run Object Detection
+##  Run Object Detection
 
 Run YOLOv8 on any image or video:
 
@@ -102,4 +102,4 @@ applications.
 
 Feel free to open issues, contribute improvements, or suggest new
 features.
-If you like this project --- **star the repo!**
+If you like this project --- **⭐ Star the Repo!**

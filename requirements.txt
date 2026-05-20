@@ -16,3 +16,4 @@ scikit-image
 lapx
 streamlit
 streamlit-webrtc
+av

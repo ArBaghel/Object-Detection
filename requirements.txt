@@ -16,3 +16,4 @@ tqdm
 filterpy
 scikit-image
 lapx
+streamlit

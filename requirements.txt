@@ -1,11 +1,9 @@
-# Object Detection Course
-
 cvzone
 ultralytics
 hydra-core
 matplotlib
 numpy
-opencv-python
+opencv-python-headless
 Pillow
 PyYAML
 requests

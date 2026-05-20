@@ -159,6 +159,6 @@ if run_webcam:
             log_placeholder.write("_No targets currently in frame above threshold._")
 
     cap.release()
-    cv2.destroyAllWindows()
+    #cv2.destroyAllWindows()
 else:
     st.info(" To start processing, expand the left sidebar and toggle on **'Activate Live UI Stream'**.")

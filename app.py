@@ -161,4 +161,4 @@ if run_webcam:
     cap.release()
     cv2.destroyAllWindows()
 else:
-    st.info("💡 To start processing, expand the left sidebar and toggle on **'Activate Live UI Stream'**.")
+    st.info(" To start processing, expand the left sidebar and toggle on **'Activate Live UI Stream'**.")

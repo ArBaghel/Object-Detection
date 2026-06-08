@@ -3,7 +3,7 @@ ultralytics
 hydra-core
 matplotlib
 numpy
-opencv-python-headless
+opencv-python-headless==4.13.0.92
 Pillow
 PyYAML
 requests
@@ -17,4 +17,4 @@ lapx
 streamlit
 streamlit-webrtc
 av
-opencv-python-headless
+

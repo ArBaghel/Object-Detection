@@ -17,3 +17,4 @@ lapx
 streamlit
 streamlit-webrtc
 av
+opencv-python-headless

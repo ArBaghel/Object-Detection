@@ -17,4 +17,5 @@ lapx
 streamlit
 streamlit-webrtc
 av
+opencv-python==4.13.0.92
 

@@ -1,9 +1,9 @@
+opencv-python-headless==4.10.0.84
 cvzone
 ultralytics
 hydra-core
 matplotlib
 numpy
-opencv-python-headless==4.10.0.84
 Pillow
 PyYAML
 requests
@@ -17,3 +17,4 @@ lapx
 streamlit
 streamlit-webrtc
 av
+ 

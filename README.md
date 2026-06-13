@@ -2,7 +2,7 @@
 
 A real-time object detection web application built with YOLOv8, OpenCV, and Streamlit. It streams your webcam feed directly in the browser, draws bounding boxes around detected objects, and logs what it sees — all in real time.
 
-Live demo: [object-class-detection-model.streamlit.app](https://object-class-detection-model.streamlit.app/)
+Live demo: [object-class-detection-model.streamlit.app](https://detection-model.streamlit.app/)
 
 ---
 
